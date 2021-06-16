@@ -1,0 +1,14 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-image: url("49e4336af845b52af5c95b68e64bb081.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.btn {
+  background-color: rgb(3, 224, 224);
+  color: white;
+}
